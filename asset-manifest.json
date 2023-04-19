@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CardsWithToolkit/static/css/main.73d07234.css",
+    "main.js": "/CardsWithToolkit/static/js/main.10b3c4d9.js",
+    "static/js/787.27518633.chunk.js": "/CardsWithToolkit/static/js/787.27518633.chunk.js",
+    "static/media/404.svg": "/CardsWithToolkit/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
+    "static/media/checked.svg": "/CardsWithToolkit/static/media/checked.0b6a1bcf5d417ff0a947.svg",
+    "index.html": "/CardsWithToolkit/index.html",
+    "main.73d07234.css.map": "/CardsWithToolkit/static/css/main.73d07234.css.map",
+    "main.10b3c4d9.js.map": "/CardsWithToolkit/static/js/main.10b3c4d9.js.map",
+    "787.27518633.chunk.js.map": "/CardsWithToolkit/static/js/787.27518633.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73d07234.css",
+    "static/js/main.10b3c4d9.js"
+  ]
+}
